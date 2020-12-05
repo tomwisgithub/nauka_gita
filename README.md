@@ -1,7 +1,7 @@
-**Image of Yaktocat**
+**John Wick**
 
-README update
+Git README
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of John Wick](https://images.financialexpress.com/2017/02/keanu.jpg)
 
 ***END***
