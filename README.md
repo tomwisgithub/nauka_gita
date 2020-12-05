@@ -1,5 +1,7 @@
 **Image of Yaktocat**
 
-![Image of Yaktocot](https://octodex.github.com/images/yaktocat.png)
+README update
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ***END***
